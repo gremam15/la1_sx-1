@@ -9,11 +9,11 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 * Vw
 * Fort
 
-Link uu : [Lorem ipsum](http://www.loremipsum.de/)
+Link zu : [Lorem ipsum](http://www.loremipsum.de/)
 
 Jetzt ein einfaches C-Programm.
-'''C
+```C
 #include <stdio.h>
 
 printf("Hello");
-'''
+```
