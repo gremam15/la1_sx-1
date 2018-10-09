@@ -12,9 +12,8 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 Link uu : [Lorem ipsum](http://www.loremipsum.de/)
 
 Jetzt ein einfaches C-Programm.
+'''C
+#include <stdio.h>
 
-  #include <stdio.h>
-  
- printf("Hello");
- 
- 
+printf("Hello");
+'''
